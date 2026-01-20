@@ -33,4 +33,4 @@ This website is designed for potential employers, friends, and family to learn m
 │       resume.pdf
 │
 └───design-docs
-        design_document.md
+        README.md
