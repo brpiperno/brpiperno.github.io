@@ -18,6 +18,7 @@ This website is designed for potential employers, friends, and family to learn m
 - Friends and Family: I might give out my website url in-person or via a direct message link. The user opens up the link on their phone and learns more about a project I might be explaining in-person or via chat, using the highlighted blurbs and images on the site to guide them. The body of text in each page isn't as important as the visuals.
 
 # Site Map
+`
 │   index.html
 │   resume.html
 │   aboutMe.html (this is where my cat pictures live)
@@ -33,4 +34,4 @@ This website is designed for potential employers, friends, and family to learn m
 │       resume.pdf
 │
 └───design-docs
-        README.md
+        README.md`
