@@ -13,6 +13,7 @@
       "school": "College of Engineering",
       "start": 2015,
       "end": 2020,
+      "GPA": 3.6,
       "coursework": [
         "Biomedical Optics",
         "Quality Assurance",
@@ -35,8 +36,7 @@
           "link": "https://github.com/brpiperno/Lung_Model_Generator",
           "year": 2017
         }
-      ],
-      "GPA": 3.6,
+      ]
     },
     {
       "title": "Masters of Science in Computer Science",
@@ -86,8 +86,8 @@
         "Created and revised manufacturing and field service work instructions",
         "Wrote appropriate documentation to carry out engineering change orders and process deviations",
         "Reviewed regulatory and manufacturing documents related to design changes and part number change",
-	"Assisted with verification testing for new release of console software.",
-	"Managed engineering change orders and process deviations."
+        "Assisted with verification testing for new release of console software.",
+        "Managed engineering change orders and process deviations."
       ],
       "link": "https://fractyl.com/"
     },
@@ -101,7 +101,7 @@
         "Developed python scripts to generate catalog production imagery, increasing production by 20%.",
         "Generated weekly business reporting metrics using SQL queries.",
         "Reduced render failure by 80% by iterating on standards and communicating next steps to stakeholders.",
-        "Audited quality control teams to ensure standards were clear and consistent.",
+        "Audited quality control teams to ensure standards were clear and consistent."
       ],
       "link": "https://wayfair.com/"
     },
@@ -114,14 +114,14 @@
       "description": [
         "Assessed investigational drug standards and GMPs for clinical trial authorization and drug authorization in USA, European Union, Japan, South Korea, and Taiwan.",
         "Drafted URS and selected venders for Title 21 CFR Part 11 compliant CMMS software.",
-	"Drafted URS and RTM for continuous building monitoring system.",
+        "Drafted URS and RTM for continuous building monitoring system.",
         "Managed periodic reivews of effective documents to maintain GDP within QMS software.",
         "Wrote URS and IOQ protocol for controlled GMP cleanrooms and warehouse.",
         "Tracked closeout of out-of-tolerance events, work requests, and work orders of GMP equipment.",
         "Created training of internal validation program and equipment lifecycle management.",
-	"Acted as point person for internal audit of equipment management and control.",
-	"Generated Equipment Master Files and assisted in equipment management controls.",
-	"Archived and controlled GMP documents within a paper based and electronic document system."
+        "Acted as point person for internal audit of equipment management and control.",
+        "Generated Equipment Master Files and assisted in equipment management controls.",
+        "Archived and controlled GMP documents within a paper based and electronic document system."
       ],
       "link": "https://vedantabio.com/"
     }
@@ -135,15 +135,15 @@
       "end": 2022,
       "description": [
         "Wrote and edited User Requirements Specifications (URS), Failure Mode and Effects Analysis (FMEA), and Functional Specifications (FS)",
-	"Drafted and executed commissioning and qualification test protocols for facilities, HVAC, utility systems, process gases, and gene therapy process equipment including autoclaves, single-use bioreactors, and tangential fluid filtration systems.",
+        "Drafted and executed commissioning and qualification test protocols for facilities, HVAC, utility systems, process gases, and gene therapy process equipment including autoclaves, single-use bioreactors, and tangential fluid filtration systems.",
         "Worked with a multifunctional team including construction management and product vendors to coordinate and perform commissioning activities and discrepancy resolution on site utilities and building management system.",
-	"Performed functional testing of sequence of operations for custom HVAC system, including graphics, alarms, and interlocks on a customized building management system for new and retrofit units.",
-	"Trained on project management concepts and tools such as CPI, SPI, resource loading, baselining schedules, Microsoft project, etc.",
-	"Identified gaps in testing to ensure system compliance with 21 CFR part 11 and annex 11 requirements.",
-	"Minimized redundant tests via leveraging of vendor documentation and previously executed testing while challenging system capabilities.",
-	"Executed testing with alignment to project validation master plan and user specifications, risk assessments, and protocol.",
-	"Earned value consistently in commissioning multiple systems within a dynamic project schedule, adjusting priorities according to client needs.",
-	"Used Good Documentation Practices to provide traceable and accurate documentation of testing activities.",
+        "Performed functional testing of sequence of operations for custom HVAC system, including graphics, alarms, and interlocks on a customized building management system for new and retrofit units.",
+        "Trained on project management concepts and tools such as CPI, SPI, resource loading, baselining schedules, Microsoft project, etc.",
+        "Identified gaps in testing to ensure system compliance with 21 CFR part 11 and annex 11 requirements.",
+        "Minimized redundant tests via leveraging of vendor documentation and previously executed testing while challenging system capabilities.",
+        "Executed testing with alignment to project validation master plan and user specifications, risk assessments, and protocol.",
+        "Earned value consistently in commissioning multiple systems within a dynamic project schedule, adjusting priorities according to client needs.",
+        "Used Good Documentation Practices to provide traceable and accurate documentation of testing activities."
       ],
       "link": "https://sequenceqcs.com/services/commissioning-qualification-validation-cqv/"
     },
@@ -160,7 +160,7 @@
         "Developed Powershell scripts to automate administrative tasks.",
         "Assessed necessary regression testing for Validation and Verification activities.",
         "Tested environmental readiness and connections between proprietary and 3rd party software components including AWS cloud storage and computing (dynamo DB, EC2, and SQS).",
-	"Coordinated testing efforts alongside agile development with clinical and regulatory input."
+        "Coordinated testing efforts alongside agile development with clinical and regulatory input."
       ],
       "link": "https://irhythmtech.com"
     },
@@ -174,9 +174,9 @@
         "Updated public facing code base and associated API toolkit to support high precision triggering and 3rd party sensors. Verified timing precision with signal generator, oscilloscope, and in-house sensor toolkit.",
         "Refactored Lab Streaming Layer integration point, providing millisecond precise local network streaming capabilities for offline and real-time data synchronization.",
         "Assessed customer technical questions regarding hardware and software operation and interactions.",
-        "Participated in daily team check-in meetings, communicated status for multiple independent projects.",
+        "Participated in daily team check-in meetings, communicated status for multiple independent projects."
       ],
-      "link": "https://delsys.com/",
+      "link": "https://delsys.com/"
     }
   ]
 }

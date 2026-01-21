@@ -1,2 +1,1 @@
-# brpiperno.github.io
-Ben Piperno Software Engineer bringing experience working in life sciences!
+This repo supports the site [brpiperno.github.io](brpiperno.github.io), my personal website to host my resume, various links, and personal information about me, including my cats! Check out the site in the link above for the full experience! 
