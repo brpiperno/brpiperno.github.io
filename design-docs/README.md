@@ -56,11 +56,11 @@ This website is designed for potential employers, friends, and family to learn m
 
 # Website Wire Frames
 __Home Page__
-![image][Index.png]
+![Wireframe for Home page](Index.png)
 __About Me__
-![image][AboutMe.png]
+![Wireframe for AboutMe page](AboutMe.png)
 __My Cats__
-![image][MyCats.png]
+![Wireframe for MyCats page](MyCats.png)
 
 
 
