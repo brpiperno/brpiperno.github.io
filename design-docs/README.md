@@ -2,6 +2,28 @@
 This website is designed to display professional information about me, including my various academic and personal work projects!
 This site was implemented as part of an academic project during my Master's of Computer Science at Northeastern University for course CS5610: Web Development! This is a static-front end implemented using HTML5, CSS, Vanilla Javascript, Bootstrap 5, and Github Pges.
 
+# Site Map
+```
+│   index.html
+│   resume.html
+│   aboutMe.html
+│   MyCats.html
+│   LICENSE
+│   README.md
+├───css
+│       main.css
+├───js
+│       main.js
+├───assets
+│       resume.json
+│       resume.pdf
+└───design-docs
+        README.md
+        AboutMe.png
+        Index.png
+        MyCats.png
+```
+
 # Links
 - [Deployment URL](https://www.markdownguide.org "View the website as an end user")
 - [Repo Link](https://www.markdownguide.org "View the source code")
@@ -32,24 +54,15 @@ This website is designed for potential employers, friends, and family to learn m
 	- __Process__: Lucy usually works on stories is in meetings during the day (only one of which is related to recruiting). She will usually look through resumes later in the night since she doesn't need to be checking in with others for the process. She switches between browsing through emails on her phone and looking through some applications on her laptop.
 	- __Story__: Ben's job application seems just fine on paper and she notices a link to his personal page. Amid the 40 other applications she's reviewed that night alone it is hard to have applications  stand out, but seeing Ben's skills stand out makes an impression. Additionally his website is simple to navigate from both her phone and laptop, automatically enters dark mode, and is not filled with walls of text. She adds the URL to her shortlist of candiates to review the next day with her team.
 
+# Website Wire Frames
+__Home Page__
+![image][Index.png]
+__About Me__
+![image][AboutMe.png]
+__My Cats__
+![image][MyCats.png]
 
-# Site Map
-```
-│   index.html
-│   resume.html
-│   aboutMe.html (this is where my cat pictures live)
-│   LICENSE
-│   README.md
-├───css
-│       main.css
-├───js
-│       main.js
-├───assets
-│       resume.json
-│       resume.pdf
-└───design-docs
-        README.md
-```
+
 
 # Generative AI statement
 The About.html page was initially implemented using Microsoft Copilot and then edited manually.
