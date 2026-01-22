@@ -1,182 +1,171 @@
-{
-  "Contact_Info": {
-    "name": "Ben Piperno",
-    "email": "brpiperno@gmail.com",
-    "linkedin": "linkedin.com/in/ben-piperno",
-    "github": "github.com/brpiperno"
+[
+  {
+    "title": "Bachelor's of Science in Industrial Engineering",
+    "org": "Northeastern University, College of Engineering",
+    "link": "",
+    "location": "Boston, MA",
+    "start": 2015,
+    "end": 2020,
+    "description": "Coursework includes: Object-Oriented Design, Medical Physiology, BioMedical Optics, Human Machine Systems, Quality Assurance, Stochasic Modeling, Electrical Engineering  Fundamentals, Computer Science Fundamentals",
+    "tags": [
+      "quality",
+      "software",
+      "life sciences"
+    ],
+    "type": "education"
   },
-  "Education": [
-    {
-      "title": "Bachelors of Science in Industrial Engineering",
-      "location": "Boston, MA",
-      "university": "Northeastern University",
-      "school": "College of Engineering",
-      "start": 2015,
-      "end": 2020,
-      "GPA": 3.6,
-      "coursework": [
-        "Biomedical Optics",
-        "Quality Assurance",
-        "Human Machine Systems",
-        "Data Mining",
-        "Stochastic Processing",
-        "Object-Oriented Design",
-        "Circuits and Signals",
-        "Medical Physiology"
-      ],
-      "projects": [
-        {
-          "title": "Montecarlo simulation of Diffuse Optical Tomography through a 2D matrix",
-          "link": "https://github.com/brpiperno/DOT_MonteCarlo_Simulation",
-          "year": 2020
-        },
-        {
-          "title": "Procedural Lung Airway 3D model generation for respiratory simulation",
-          "description": "",
-          "link": "https://github.com/brpiperno/Lung_Model_Generator",
-          "year": 2017
-        }
-      ]
-    },
-    {
-      "title": "Masters of Science in Computer Science",
-      "location": "Boston, MA",
-      "university": "Northeastern University",
-      "school": "Khoury College of Computer Sciences",
-      "start": 2024,
-      "end": 2026,
-      "coursework": [
-        "Programming Design Paradigms",
-        "Game Programming",
-        "Computer Graphics",
-        "Algorithms",
-        "Computer Systems",
-        "Computer Networks",
-        "Web Development",
-        "Database Management Systems"
-      ],
-      "projects": [
-        {
-          "title": "Investment Simulation using Alpha Vantage API in MVC structure",
-          "description": "link available upon request",
-          "link": "",
-          "year": 2024
-        },
-        {
-          "title": "Modern OpenGL \"Marching Cubes\" volumetric renderer.",
-          "description": "link available upon request.",
-          "link": "",
-          "year": 2025
-        }
-      ],
-      "GPA": 4
-    }
-  ],
-  "Work": [
-    {
-      "title": "Quality Engineer Co-op",
-      "company": "Fractyl Health",
-      "location": "Lexington, MA",
-      "start": 2018,
-      "end": 2018,
-      "description": [
-        "Authored a shelf life and transit protocol, executed performance testing and wrote the report.",
-        "Inspected, dispositioned, and reported metrics on incoming and in-process non-conformances",
-        "Updated labeling and documentation to meet IEC 60601-1-2 Title 21 regulations.",
-        "Created and revised manufacturing and field service work instructions",
-        "Wrote appropriate documentation to carry out engineering change orders and process deviations",
-        "Reviewed regulatory and manufacturing documents related to design changes and part number change",
-        "Assisted with verification testing for new release of console software.",
-        "Managed engineering change orders and process deviations."
-      ],
-      "link": "https://fractyl.com/"
-    },
-    {
-      "title": "3D Visualization Quality Asssurance Co-op",
-      "company": "Wayfair",
-      "location": "Boston, MA",
-      "start": 2017,
-      "end": 2017,
-      "description": [
-        "Developed python scripts to generate catalog production imagery, increasing production by 20%.",
-        "Generated weekly business reporting metrics using SQL queries.",
-        "Reduced render failure by 80% by iterating on standards and communicating next steps to stakeholders.",
-        "Audited quality control teams to ensure standards were clear and consistent."
-      ],
-      "link": "https://wayfair.com/"
-    },
-    {
-      "title": "Quality Assurance Engineer Co-op",
-      "company": "Vedanta Biosciences",
-      "location": "Cambridge, MA",
-      "start": 2019,
-      "end": 2019,
-      "description": [
-        "Assessed investigational drug standards and GMPs for clinical trial authorization and drug authorization in USA, European Union, Japan, South Korea, and Taiwan.",
-        "Drafted URS and selected venders for Title 21 CFR Part 11 compliant CMMS software.",
-        "Drafted URS and RTM for continuous building monitoring system.",
-        "Managed periodic reivews of effective documents to maintain GDP within QMS software.",
-        "Wrote URS and IOQ protocol for controlled GMP cleanrooms and warehouse.",
-        "Tracked closeout of out-of-tolerance events, work requests, and work orders of GMP equipment.",
-        "Created training of internal validation program and equipment lifecycle management.",
-        "Acted as point person for internal audit of equipment management and control.",
-        "Generated Equipment Master Files and assisted in equipment management controls.",
-        "Archived and controlled GMP documents within a paper based and electronic document system."
-      ],
-      "link": "https://vedantabio.com/"
-    }
-  ],
-  "work": [
-    {
-      "title": "Consultant",
-      "company": "Sequence Inc",
-      "location": "Framingham, MA",
-      "start": 2020,
-      "end": 2022,
-      "description": [
-        "Wrote and edited User Requirements Specifications (URS), Failure Mode and Effects Analysis (FMEA), and Functional Specifications (FS)",
-        "Drafted and executed commissioning and qualification test protocols for facilities, HVAC, utility systems, process gases, and gene therapy process equipment including autoclaves, single-use bioreactors, and tangential fluid filtration systems.",
-        "Worked with a multifunctional team including construction management and product vendors to coordinate and perform commissioning activities and discrepancy resolution on site utilities and building management system.",
-        "Performed functional testing of sequence of operations for custom HVAC system, including graphics, alarms, and interlocks on a customized building management system for new and retrofit units.",
-        "Trained on project management concepts and tools such as CPI, SPI, resource loading, baselining schedules, Microsoft project, etc.",
-        "Identified gaps in testing to ensure system compliance with 21 CFR part 11 and annex 11 requirements.",
-        "Minimized redundant tests via leveraging of vendor documentation and previously executed testing while challenging system capabilities.",
-        "Executed testing with alignment to project validation master plan and user specifications, risk assessments, and protocol.",
-        "Earned value consistently in commissioning multiple systems within a dynamic project schedule, adjusting priorities according to client needs.",
-        "Used Good Documentation Practices to provide traceable and accurate documentation of testing activities."
-      ],
-      "link": "https://sequenceqcs.com/services/commissioning-qualification-validation-cqv/"
-    },
-    {
-      "title": "Systems SQA Engineer II",
-      "company": "iRhythm",
-      "location": "San Francisco, CA (remote)",
-      "start": 2022,
-      "end": 2024,
-      "description": [
-        "Drafted, review, and execute software verification to match new and updated software requirements.",
-        "Wrote automated API endpoint tests across multiple test environments.",
-        "Identified bugs and perform root cause analysis to determine impact and remediation.",
-        "Developed Powershell scripts to automate administrative tasks.",
-        "Assessed necessary regression testing for Validation and Verification activities.",
-        "Tested environmental readiness and connections between proprietary and 3rd party software components including AWS cloud storage and computing (dynamo DB, EC2, and SQS).",
-        "Coordinated testing efforts alongside agile development with clinical and regulatory input."
-      ],
-      "link": "https://irhythmtech.com"
-    },
-    {
-      "title": "Backend Software Engineer Co-op",
-      "company": "Delsys Inc",
-      "location": "Natick, MA",
-      "start": 2025,
-      "end": 2025,
-      "description": [
-        "Updated public facing code base and associated API toolkit to support high precision triggering and 3rd party sensors. Verified timing precision with signal generator, oscilloscope, and in-house sensor toolkit.",
-        "Refactored Lab Streaming Layer integration point, providing millisecond precise local network streaming capabilities for offline and real-time data synchronization.",
-        "Assessed customer technical questions regarding hardware and software operation and interactions.",
-        "Participated in daily team check-in meetings, communicated status for multiple independent projects."
-      ],
-      "link": "https://delsys.com/"
-    }
-  ]
-}
+  {
+    "title": "Montecarlo simulation of Diffuse Optical Tomography through a 2D matrix",
+    "link": "https://github.com/brpiperno/DOT_MonteCarlo_Simulation",
+    "org": "Northeastern University",
+    "start": 2020,
+    "end": 2020,
+    "tags": [
+      "software",
+      "life sciences",
+      "visualization"
+    ],
+    "type": "project"
+  },
+  {
+    "title": "Procedural Lung Airway 3D model generation for respiratory simulation",
+    "link": "https://github.com/brpiperno/Lung_Model_Generator",
+    "org": "RESIST LAB, Northeastern University",
+    "start": 2017,
+    "end": 2017,
+    "tags": [
+      "quality",
+      "software",
+      "life sciences",
+      "visualization"
+    ],
+    "type": "project"
+  },
+  {
+    "title": "Master's of Science in Computer Science",
+    "org": "Northeastern University Khoury College of Computer Sciences",
+    "start": 2024,
+    "end": 2026,
+    "description": "Coursework includes: Programming Design Paradigms, Algorithms, Computer Systems, Computer Graphics, Database Management Systems, Computer Networking, and Web Development",
+    "tags": [
+      "software",
+      "visualization"
+    ],
+    "type": "education"
+  },
+  {
+    "title": "Investment Simulation using Alpha Vantage API in MVC structure",
+    "org": "Northeastern University Khoury College of Computer Sciences",
+    "description": "Source code available upon request. Course project for Programming Design Paradigms.",
+    "start": 2024,
+    "end": 2024,
+    "tags": [
+      "software"
+    ],
+    "type": "project"
+  },
+  {
+    "title": "Modern OpenGL \"Marching Cubes\" volumetric renderer",
+    "org": "Northeastern University Khoury College of Computer Sciences",
+    "description": "Source code available upon request. Course project for Computer Graphics",
+    "start": 2025,
+    "end": 2025,
+    "tags": [
+      "software",
+      "visualization"
+    ],
+    "type": "project"
+  },
+  {
+    "title": "Research Assistant at Systems Research Group",
+    "org": "Northeastern University Khoury College of Computer Sciences",
+    "description": "I study lightweight performance monitoring solutions with Professor Xiang Ren",
+    "link" : "https://srg.khoury.northeastern.edu/",
+    "start": 2026,
+    "end": 2026,
+    "tags": [
+      "software"
+    ],
+    "type": "work"
+  },
+  {
+    "title": "Backend Software Engineer Intern",
+    "org": "Delsys, Inc",
+    "location": "Natick, MA",
+    "start": 2025,
+    "end": 2025,
+    "description": "I worked on back end data processing for the Delsys ElectroMyography (EMG) sensor pipeline as well as API integration points and demo examples",
+    "tags": [
+      "software",
+      "life sciences"
+    ],
+    "type": "work"
+  },
+  {
+    "title": "Systems SQA Engineer II",
+    "org": "iRhythm",
+    "location": "San Francisco, CA (remote)",
+    "start": 2022,
+    "end": 2024,
+    "type": "work",
+    "description": "I developed requirements and test protocols for web platforms, telemetry solutions, and diagnostic tools while also performing root cause analysis on bugs I found along the way. Competancies include: API testing, ISO 13485 Quality Management Systems, requirement/risk analysis, and AWS Cloud Infrastructure.",
+    "tags": [
+      "quality",
+      "software",
+      "life sciences"
+    ]
+  },
+  {
+    "title": "CQV Consultant",
+    "org": "Sequence, Inc",
+    "location": "Framingham, MA",
+    "start": 2020,
+    "end": 2022,
+    "description": "As a Consultant I helped deliver BioPharmaceutical TurnOver Packages to clients during manufacturing site startup. I worked directly with my Clients, General Contractors, and Specialists to develop system boundaries, user requirements, Failure Modes and Effects Analysis, Enginering Test Protocols and Reports (including Commissioning, Qualification, and Validation). Systems I worked on directly include Facilities, HVAC, Autoclave, Process Gases",
+    "type": "work",
+    "tags": [
+      "quality",
+      "life sciences"
+    ]
+  },
+  {
+    "title": "Quality Assurance Engineer Intern",
+    "org": "Vedanta Biosciences",
+    "location": "Cambridge, MA",
+    "start": 2019,
+    "end": 2019,
+    "description": "I helped manage the quality management system documentation and develop protocols and user requirements for systems like a Computerized Maintenance Management System",
+    "type": "work",
+    "tags": [
+      "quality",
+      "life sciences"
+    ]
+  },
+  {
+    "title": "Quality Engineer Intern",
+    "org": "Fractyl Health",
+    "location": "Lexington, MA",
+    "start": 2018,
+    "end": 2018,
+    "description": "Developed and executed hardware test protocols for shelf life extension. Generated Non-Conforming Material Reports and updated labeling and other documentation for international investigational device standards.",
+    "type": "work",
+    "tags": [
+      "quality",
+      "life sciences"
+    ]
+  },
+  {
+    "title": "3D Visualization Quality Assurance Intern",
+    "org": "Wayfair",
+    "location": "Boston, MA",
+    "start": 2017,
+    "end": 2017,
+    "description": "Developed image manipulation scripts to procedurally generate catalog imagery and iterated on 3D rendering pipeline standards to reduce bottlenecks.",
+    "type": "work",
+    "tags": [
+      "quality",
+      "software",
+      "visualization"
+    ]
+  }
+]
