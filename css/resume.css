@@ -1,16 +1,3 @@
-/*
- * Globals
- */
-
-
-/* Custom default button */
-.btn-secondary,
-.btn-secondary:hover,
-.btn-secondary:focus {
-  color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
-}
-
 
 /*
  * Base structure
@@ -22,7 +9,7 @@ body {
 }
 
 .cover-container {
-  max-width: 42em;
+  max-width: 80%;
 }
 
 
