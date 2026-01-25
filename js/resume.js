@@ -24,10 +24,6 @@ if (typeof(work_col) == 'undefined' || work_col == null)
 }
 
 
-console.log("running resume.js!");
-
-
-
 function fetchResume(path) {
 	return fetch(path)
 		.then(response => {
@@ -79,16 +75,16 @@ function renderTimeline(resume) {
 	//set timeline container height
 	let columnHeight = cardHeight * Math.max(1, latestYear - earliestYear);
 	timeline.style.height = columnHeight + "px";
-	console.log(`latestYear = ${latestYear}, earliestYear = ${earliestYear} timeline height: ${timeline.style.height}`);
+	//console.log(`latestYear = ${latestYear}, earliestYear = ${earliestYear} timeline height: ${timeline.style.height}`);
 	
 
 	//sort by end year and render each project
 	resume.sort((a,b) => a.start - b.start).reverse().forEach(ev => {
-		console.log(`event: ${ev.title} start: ${ev.start} end: ${ev.end}`);
+		//console.log(`event: ${ev.title} start: ${ev.start} end: ${ev.end}`);
 		let card = createTimelineCard(ev);
 		card.style.marginTop = cardHeight * (latestYear - ev.end) + "px";
 		card.style.height = Math.max(cardHeight, (1+ev.end-ev.start) * cardHeight) + "px";
-		console.log(`setting marginTop = ${card.style.marginTop}, height = ${card.style.height}`);
+		//console.log(`setting marginTop = ${card.style.marginTop}, height = ${card.style.height}`);
 	  if (ev.type == "work") {
   		work_col.appendChild(card);
   	} else if (ev.type == "education") { //give degrees more rom
@@ -99,9 +95,6 @@ function renderTimeline(resume) {
   	}
 	});
 }
-
-
-
 
 fetchResume(json_resume_path)
 	.then(resume => renderTimeline(resume, timeline))
