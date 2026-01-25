@@ -44,6 +44,7 @@
   {
     "title": "Master's of Science in Computer Science",
     "org": "Northeastern University Khoury College of Computer Sciences",
+    "location": "Boston, MA",
     "start": 2024,
     "end": 2026,
     "description": "Coursework includes: Programming Design Paradigms, Algorithms, Computer Systems, Computer Graphics, Database Management Systems, Computer Networking, and Web Development",
@@ -55,10 +56,10 @@
   },
   {
     "title": "Investment Simulation using Alpha Vantage API in MVC structure",
-    "org": "Northeastern University Khoury College of Computer Sciences",
+    "org": "Northeastern University",
     "description": "Source code available upon request. Course project for Programming Design Paradigms.",
     "start": 2024,
-    "end": 2024,
+    "end" : 2024,
     "tags": [
       "software"
     ],
@@ -66,10 +67,10 @@
   },
   {
     "title": "Modern OpenGL \"Marching Cubes\" volumetric renderer",
-    "org": "Northeastern University Khoury College of Computer Sciences",
+    "org": "Northeastern University",
     "description": "Source code available upon request. Course project for Computer Graphics",
     "start": 2025,
-    "end": 2025,
+    "end" : 2025,
     "tags": [
       "software",
       "visualization"
@@ -77,12 +78,12 @@
     "type": "project"
   },
   {
-    "title": "Research Assistant at Systems Research Group",
-    "org": "Northeastern University Khoury College of Computer Sciences",
-    "description": "I study lightweight performance monitoring solutions with Professor Xiang Ren",
+    "title": "Computer Systems Research Assistant",
+    "org": "Northeastern University Systems Research Group",
+    "description": "Study lightweight performance monitoring solutions under assistant professor Xiang Ren",
     "link" : "https://srg.khoury.northeastern.edu/",
     "start": 2026,
-    "end": 2026,
+    "end" : 2026,
     "tags": [
       "software"
     ],
@@ -93,7 +94,7 @@
     "org": "Delsys, Inc",
     "location": "Natick, MA",
     "start": 2025,
-    "end": 2025,
+    "end" : 2025,
     "description": "I worked on back end data processing for the Delsys ElectroMyography (EMG) sensor pipeline as well as API integration points and demo examples",
     "tags": [
       "software",
@@ -133,7 +134,7 @@
     "org": "Vedanta Biosciences",
     "location": "Cambridge, MA",
     "start": 2019,
-    "end": 2019,
+    "end" : 2019,
     "description": "I helped manage the quality management system documentation and develop protocols and user requirements for systems like a Computerized Maintenance Management System",
     "type": "work",
     "tags": [
@@ -146,7 +147,7 @@
     "org": "Fractyl Health",
     "location": "Lexington, MA",
     "start": 2018,
-    "end": 2018,
+    "end" : 2018,
     "description": "Developed and executed hardware test protocols for shelf life extension. Generated Non-Conforming Material Reports and updated labeling and other documentation for international investigational device standards.",
     "type": "work",
     "tags": [
@@ -159,7 +160,7 @@
     "org": "Wayfair",
     "location": "Boston, MA",
     "start": 2017,
-    "end": 2017,
+    "end" : 2017,
     "description": "Developed image manipulation scripts to procedurally generate catalog imagery and iterated on 3D rendering pipeline standards to reduce bottlenecks.",
     "type": "work",
     "tags": [
