@@ -5,7 +5,7 @@ if (typeof(timeline) == 'undefined' || timeline == null)
 {
   console.error("Could not find work column element by ID!");
 }
-const cardHeight = 175; //card height in pixels
+const cardHeight = 200; //card height in pixels
 
 let work_col =  document.getElementById('timeline-col-1');
 if (typeof(work_col) == 'undefined' || work_col == null)

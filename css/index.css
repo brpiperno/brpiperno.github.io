@@ -1,3 +1,11 @@
-html {
-	color-scheme: dark light;
+.timeline-card {
+	border-radius: 30px;
+	padding-bottom: 30px;
+	padding: 20px;
+}
+
+
+
+.timeline-col {
+	position: relative;
 }
