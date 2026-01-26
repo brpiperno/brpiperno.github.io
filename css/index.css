@@ -38,10 +38,8 @@
 }
 
 .timeline-card {
-	border-radius: 30px;
   padding: 10px; /* Space between content and border */
-  border: 10px solid blue; /* The border itself */
-  box-sizing: border-box; /* Includes padding and border in width/height */
+  border: 0;
 }
 
 .card-text {
@@ -53,13 +51,13 @@
 }
 
 .work {
-	border-color: var(--bp-blue);
+	background-color: var(--bp-blue);
 }
 
 .education {
-	border-color: var(--bp-green);
+	background-color: var(--bp-green);
 }
 
 .project {
-	border-color: var(--bp-orange);
+	background-color: var(--bp-orange);
 }
