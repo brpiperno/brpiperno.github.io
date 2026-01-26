@@ -6,7 +6,7 @@
     "location": "Boston, MA",
     "start": 2015,
     "end": 2020,
-    "description": "Coursework includes: Object-Oriented Design, Medical Physiology, BioMedical Optics, Human Machine Systems, Quality Assurance, Stochasic Modeling, Electrical Engineering  Fundamentals, Computer Science Fundamentals",
+    "description": "Coursework includes: \n- Object-Oriented Design \n- Medical Physiology \n- BioMedical Optics \n- Human Machine Systems\n- Quality Assurance\n- Stochasic Modeling\n- Electrical Engineering  Fundamentals\n- Computer Science Fundamentals",
     "tags": [
       "quality",
       "software",
@@ -15,7 +15,7 @@
     "type": "education"
   },
   {
-    "title": "Montecarlo simulation of Diffuse Optical Tomography through a 2D matrix",
+    "title": "Diffuse Optical Tomography",
     "link": "https://github.com/brpiperno/DOT_MonteCarlo_Simulation",
     "org": "Northeastern University",
     "start": 2020,
@@ -25,7 +25,8 @@
       "life sciences",
       "visualization"
     ],
-    "type": "project"
+    "type": "project",
+    "description": "Diffuse Optical Tomography (DOT) simulates light passing through a 2D matrix of heterogenouse tissue using montecarlo simulation. Created for BioMedical Optics."
   },
   {
     "title": "Procedural Lung Airway 3D model generation for respiratory simulation",
@@ -39,7 +40,8 @@
       "life sciences",
       "visualization"
     ],
-    "type": "project"
+    "type": "project",
+    "description": "Procedurally generated 3D models of lungs using pythonVTK library."
   },
   {
     "title": "Master's of Science in Computer Science",
@@ -47,7 +49,7 @@
     "location": "Boston, MA",
     "start": 2024,
     "end": 2026,
-    "description": "Coursework includes: Programming Design Paradigms, Algorithms, Computer Systems, Computer Graphics, Database Management Systems, Computer Networking, and Web Development",
+    "description": "Coursework includes: \n- Programming Design Paradigms \n- Algorithms \n- Computer Systems \n- Computer Graphics \n- Database Management Systems \n- Computer Networking\n- Web Development",
     "tags": [
       "software",
       "visualization"
@@ -109,7 +111,7 @@
     "start": 2022,
     "end": 2024,
     "type": "work",
-    "description": "I developed requirements and test protocols for web platforms, telemetry solutions, and diagnostic tools while also performing root cause analysis on bugs I found along the way. Competancies include: API testing, ISO 13485 Quality Management Systems, requirement/risk analysis, and AWS Cloud Infrastructure.",
+    "description": "Developed requirements and test protocols for web platforms, telemetry solutions, and diagnostic tools while also performing root cause analysis on bugs I found along the way. Competancies include: API testing, ISO 13485 Quality Management Systems, requirement/risk analysis, and AWS Cloud Infrastructure.",
     "tags": [
       "quality",
       "software",
@@ -122,7 +124,7 @@
     "location": "Framingham, MA",
     "start": 2020,
     "end": 2022,
-    "description": "As a Consultant I helped deliver BioPharmaceutical TurnOver Packages to clients during manufacturing site startup. I worked directly with my Clients, General Contractors, and Specialists to develop system boundaries, user requirements, Failure Modes and Effects Analysis, Enginering Test Protocols and Reports (including Commissioning, Qualification, and Validation). Systems I worked on directly include Facilities, HVAC, Autoclave, Process Gases",
+    "description": "Delivered BioPharmaceutical turnover packages to clients during manufacturing site startup. I worked directly with my Clients, General Contractors, and Specialists to develop system boundaries, user requirements, Failure Modes and Effects Analysis, Enginering Test Protocols and Reports (including Commissioning, Qualification, and Validation). Systems I worked on directly include Facilities, HVAC, Autoclave, Process Gases",
     "type": "work",
     "tags": [
       "quality",
@@ -148,7 +150,7 @@
     "location": "Lexington, MA",
     "start": 2018,
     "end" : 2018,
-    "description": "Developed and executed hardware test protocols for shelf life extension. Generated Non-Conforming Material Reports and updated labeling and other documentation for international investigational device standards.",
+    "description": "Developed and executed medical hardware and software validation protocols. Generated Non-Conforming Material Reports and updated documentation for international medical device standards.",
     "type": "work",
     "tags": [
       "quality",
@@ -161,7 +163,7 @@
     "location": "Boston, MA",
     "start": 2017,
     "end" : 2017,
-    "description": "Developed image manipulation scripts to procedurally generate catalog imagery and iterated on 3D rendering pipeline standards to reduce bottlenecks.",
+    "description": "Developed image manipulation scripts for catalog imagery and streamlined 3D rendering pipeline standards.",
     "type": "work",
     "tags": [
       "quality",

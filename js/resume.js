@@ -5,7 +5,7 @@ if (typeof(timeline) == 'undefined' || timeline == null)
 {
   console.error("Could not find work column element by ID!");
 }
-const cardHeight = 200; //card height in pixels
+const cardHeight = 170; //card height in pixels
 
 let work_col =  document.getElementById('timeline-col-1');
 if (typeof(work_col) == 'undefined' || work_col == null)
@@ -47,7 +47,16 @@ function createTimelineCard(event) {
 	card_title.className = 'card-title';
 	card_title.innerText = event.title;
 	card.style.position = 'absolute';
-	card.appendChild(card_title);
+	if (event.link) {
+		let linkWrapper = document.createElement('a');
+		linkWrapper.href = event.link;
+		linkWrapper.appendChild(card_title);
+		card.appendChild(linkWrapper);
+	}
+	else {
+		card.appendChild(card_title);
+	}
+	
 
 	let card_subtitle = document.createElement('h6');
 	card_subtitle.className = 'card-subtitle mb-2 text-muted';
@@ -83,7 +92,7 @@ function renderTimeline(resume) {
 		//console.log(`event: ${ev.title} start: ${ev.start} end: ${ev.end}`);
 		let card = createTimelineCard(ev);
 		card.style.marginTop = cardHeight * (latestYear - ev.end) + "px";
-		card.style.height = Math.max(cardHeight, (1+ev.end-ev.start) * cardHeight) + "px";
+		//card.style.maxHeight = Math.max(cardHeight, (1+ev.end-ev.start) * cardHeight) + "px";
 		//console.log(`setting marginTop = ${card.style.marginTop}, height = ${card.style.height}`);
 	  if (ev.type == "work") {
   		work_col.appendChild(card);
