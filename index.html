@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en" class="h-100" data-bs-theme="dark">
+<html lang="en" class="h-100">
 
 <head>
     <meta charset="UTF-8">
@@ -11,9 +11,9 @@
     <meta name="author" content="Ben Piperno">
 </head>
 
-<body class="d-flex h-100 text-center text-white bg-dark">
+<body class="d-flex text-center">
     <header>
-        <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+        <nav class="navbar navbar-expand-md fixed-top">
             <div class="container-fluid">
                 <a class="navbar-brand" href="./index.html">Ben Piperno</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
@@ -28,13 +28,13 @@
                             <a class="nav-link" href="./about.html">About Me</a>
                         </li>
                     </ul>
-      	            <button class="btn btn-dark" id="darkModeToggle" aria-label="Toggle dark mode"> dark mode
+      	            <button class="btn btn-outline-secondary"  id="darkModeToggle" aria-label="Toggle dark mode"> dark mode
 										</button>
                 </div>
             </div>
         </nav>
     </header>
-    <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+    <div class="cover-container d-flex p-3 mx-auto flex-column">
         <main class="px-3">
             <div class = "title-container container">
             	<div class = "col-4">
@@ -51,13 +51,13 @@
                 <div class="container py-5" id="timeline-container">
                 		<div class="row">
                     	<div class="col-md-4 timeline-col" id="timeline-col-1">
-                    		<h3>Work Experience</h3>
+                    		<h3 class="bp-blue">Work Experience</h3>
                     	</div>
                     	<div class="col-md-4 timeline-col" id="timeline-col-2">
-                    		<h3>Education</h3>
+                    		<h3 class="bp-green">Education</h3>
                     	</div>
                       <div class="col-md-4 timeline-col" id="timeline-col-3">
-                      	<h3>Projects</h3>
+                      	<h3 class="bp-orange">Projects</h3>
                       </div>
                     </div>
                 </div>
@@ -69,7 +69,7 @@
         </footer>
     </div>
     <script src="./js/resume.js"></script>
-    <script src='./js/theme.js'></script>
+    <script src="./js/theme.js"></script>
 </body>
 
 </html>

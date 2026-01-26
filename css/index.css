@@ -1,3 +1,26 @@
+/* custom.css */
+:root {
+  --bp-purple: #AD5EB4;
+  --bp-blue:   #AEC5EB;
+  --bp-green:  #9BC995;
+  --bp-orange: #FCAB64; 
+}
+
+.bp-blue {
+	color: var(--bp-blue);
+}
+
+.bp-purple {
+	color: var(--bp-purple);
+}
+
+.bp-green {
+	color: var(--bp-green);
+}
+.bp-orange {
+	color: var(--bp-orange);
+}
+
 
 .headshot {
 	border-radius: 50%;
@@ -16,12 +39,27 @@
 
 .timeline-card {
 	border-radius: 30px;
-	padding-bottom: 30px;
-	padding: 20px;
+  padding: 10px; /* Space between content and border */
+  border: 10px solid blue; /* The border itself */
+  box-sizing: border-box; /* Includes padding and border in width/height */
 }
 
-
+.card-text {
+	text-align: left;
+}
 
 .timeline-col {
 	position: relative;
+}
+
+.work {
+	border-color: var(--bp-blue);
+}
+
+.education {
+	border-color: var(--bp-green);
+}
+
+.project {
+	border-color: var(--bp-orange);
 }

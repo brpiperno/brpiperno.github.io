@@ -41,7 +41,7 @@ function fetchResume(path) {
 
 function createTimelineCard(event) {
 	let card = document.createElement('div');
-	card.className = 'timeline-card card';
+	card.className = 'timeline-card card ' + event.type;
 
 	let card_title = document.createElement('h5');
 	card_title.className = 'card-title';

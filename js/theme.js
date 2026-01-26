@@ -1,7 +1,4 @@
 //toggle light and dark mode
-
-console.log("running theme.js!");
-
 function toggleTheme() {
 	console.log("toggleTheme!");
 	const currentTheme = document.documentElement.getAttribute('data-bs-theme');
