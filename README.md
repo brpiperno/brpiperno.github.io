@@ -6,7 +6,7 @@ This repo was generated as part of [CS5610: Web Development](https://johnguerra.
 
 # Project Overview
 This website is designed to display professional information about me, including my various academic and personal work projects!
-This site was implemented as part of an academic project during my Master's of Computer Science at Northeastern University for course CS5610: Web Development! This is a static-front end implemented using HTML5, CSS, Vanilla Javascript, Bootstrap 5, and Github Pges.
+This site was implemented as part of an academic project during my Master's of Computer Science at Northeastern University for course CS5610: Web Development! This is a static-front end implemented using HTML5, CSS, Vanilla Javascript, Bootstrap 5, and Github Pages.
 
 # Instructions to build:
 Visit deployed website at [brpiperno.github.io](https://brpiperno.github.io/ "My Website!")
