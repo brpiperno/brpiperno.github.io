@@ -1,40 +1,39 @@
 /* custom.css */
 :root {
-  --bp-purple: #AD5EB4;
-  --bp-blue:   #AEC5EB;
-  --bp-green:  #9BC995;
-  --bp-orange: #FCAB64; 
+  --bp-purple: #ad5eb4;
+  --bp-blue: #aec5eb;
+  --bp-green: #9bc995;
+  --bp-orange: #fcab64;
 }
 
 .bp-blue {
-	color: var(--bp-blue);
+  color: var(--bp-blue);
 }
 
 .bp-purple {
-	color: var(--bp-purple);
+  color: var(--bp-purple);
 }
 
 .bp-green {
-	color: var(--bp-green);
+  color: var(--bp-green);
 }
 .bp-orange {
-	color: var(--bp-orange);
+  color: var(--bp-orange);
 }
 
-
 .headshot {
-	border-radius: 50%;
-	max-width: 300px;
-	max-height: 300px;
-	width: auto;
-	height: auto;
-	object-fit: cover; /* prevents image distortion */
+  border-radius: 50%;
+  max-width: 300px;
+  max-height: 300px;
+  width: auto;
+  height: auto;
+  object-fit: cover; /* prevents image distortion */
 }
 
 .title-container {
-	display: flex;
-	gap: 20px;
-	margin-top: 80px;
+  display: flex;
+  gap: 20px;
+  margin-top: 80px;
 }
 
 .timeline-card {
@@ -43,21 +42,21 @@
 }
 
 .card-text {
-	text-align: left;
+  text-align: left;
 }
 
 .timeline-col {
-	position: relative;
+  position: relative;
 }
 
 .work {
-	background-color: var(--bp-blue);
+  background-color: var(--bp-blue);
 }
 
 .education {
-	background-color: var(--bp-green);
+  background-color: var(--bp-green);
 }
 
 .project {
-	background-color: var(--bp-orange);
+  background-color: var(--bp-orange);
 }

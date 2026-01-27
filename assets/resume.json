@@ -7,11 +7,7 @@
     "start": 2015,
     "end": 2020,
     "description": "Coursework includes: \n- Object-Oriented Design \n- Medical Physiology \n- BioMedical Optics \n- Human Machine Systems\n- Quality Assurance\n- Stochasic Modeling\n- Electrical Engineering  Fundamentals\n- Computer Science Fundamentals",
-    "tags": [
-      "quality",
-      "software",
-      "life sciences"
-    ],
+    "tags": ["quality", "software", "life sciences"],
     "type": "education"
   },
   {
@@ -20,11 +16,7 @@
     "org": "Northeastern University",
     "start": 2020,
     "end": 2020,
-    "tags": [
-      "software",
-      "life sciences",
-      "visualization"
-    ],
+    "tags": ["software", "life sciences", "visualization"],
     "type": "project",
     "description": "Diffuse Optical Tomography (DOT) simulates light passing through a 2D matrix of heterogenouse tissue using montecarlo simulation. Created for BioMedical Optics."
   },
@@ -34,12 +26,7 @@
     "org": "RESIST LAB, Northeastern University",
     "start": 2017,
     "end": 2017,
-    "tags": [
-      "quality",
-      "software",
-      "life sciences",
-      "visualization"
-    ],
+    "tags": ["quality", "software", "life sciences", "visualization"],
     "type": "project",
     "description": "Procedurally generated 3D models of lungs using pythonVTK library."
   },
@@ -50,10 +37,7 @@
     "start": 2024,
     "end": 2026,
     "description": "Coursework includes: \n- Programming Design Paradigms \n- Algorithms \n- Computer Systems \n- Computer Graphics \n- Database Management Systems \n- Computer Networking\n- Web Development",
-    "tags": [
-      "software",
-      "visualization"
-    ],
+    "tags": ["software", "visualization"],
     "type": "education"
   },
   {
@@ -61,10 +45,8 @@
     "org": "Northeastern University",
     "description": "Source code available upon request. Course project for Programming Design Paradigms.",
     "start": 2024,
-    "end" : 2024,
-    "tags": [
-      "software"
-    ],
+    "end": 2024,
+    "tags": ["software"],
     "type": "project"
   },
   {
@@ -72,23 +54,18 @@
     "org": "Northeastern University",
     "description": "Source code available upon request. Course project for Computer Graphics",
     "start": 2025,
-    "end" : 2025,
-    "tags": [
-      "software",
-      "visualization"
-    ],
+    "end": 2025,
+    "tags": ["software", "visualization"],
     "type": "project"
   },
   {
     "title": "Computer Systems Research Assistant",
     "org": "Northeastern University Systems Research Group",
     "description": "Study lightweight performance monitoring solutions under assistant professor Xiang Ren",
-    "link" : "https://srg.khoury.northeastern.edu/",
+    "link": "https://srg.khoury.northeastern.edu/",
     "start": 2026,
-    "end" : 2026,
-    "tags": [
-      "software"
-    ],
+    "end": 2026,
+    "tags": ["software"],
     "type": "work"
   },
   {
@@ -96,12 +73,9 @@
     "org": "Delsys, Inc",
     "location": "Natick, MA",
     "start": 2025,
-    "end" : 2025,
+    "end": 2025,
     "description": "I worked on back end data processing for the Delsys ElectroMyography (EMG) sensor pipeline as well as API integration points and demo examples",
-    "tags": [
-      "software",
-      "life sciences"
-    ],
+    "tags": ["software", "life sciences"],
     "type": "work"
   },
   {
@@ -112,11 +86,7 @@
     "end": 2024,
     "type": "work",
     "description": "Developed requirements and test protocols for web platforms, telemetry solutions, and diagnostic tools while also performing root cause analysis on bugs I found along the way. Competancies include: API testing, ISO 13485 Quality Management Systems, requirement/risk analysis, and AWS Cloud Infrastructure.",
-    "tags": [
-      "quality",
-      "software",
-      "life sciences"
-    ]
+    "tags": ["quality", "software", "life sciences"]
   },
   {
     "title": "CQV Consultant",
@@ -126,49 +96,36 @@
     "end": 2022,
     "description": "Delivered BioPharmaceutical turnover packages to clients during manufacturing site startup. I worked directly with my Clients, General Contractors, and Specialists to develop system boundaries, user requirements, Failure Modes and Effects Analysis, Enginering Test Protocols and Reports (including Commissioning, Qualification, and Validation). Systems I worked on directly include Facilities, HVAC, Autoclave, Process Gases",
     "type": "work",
-    "tags": [
-      "quality",
-      "life sciences"
-    ]
+    "tags": ["quality", "life sciences"]
   },
   {
     "title": "Quality Assurance Engineer Intern",
     "org": "Vedanta Biosciences",
     "location": "Cambridge, MA",
     "start": 2019,
-    "end" : 2019,
+    "end": 2019,
     "description": "I helped manage the quality management system documentation and develop protocols and user requirements for systems like a Computerized Maintenance Management System",
     "type": "work",
-    "tags": [
-      "quality",
-      "life sciences"
-    ]
+    "tags": ["quality", "life sciences"]
   },
   {
     "title": "Quality Engineer Intern",
     "org": "Fractyl Health",
     "location": "Lexington, MA",
     "start": 2018,
-    "end" : 2018,
+    "end": 2018,
     "description": "Developed and executed medical hardware and software validation protocols. Generated Non-Conforming Material Reports and updated documentation for international medical device standards.",
     "type": "work",
-    "tags": [
-      "quality",
-      "life sciences"
-    ]
+    "tags": ["quality", "life sciences"]
   },
   {
     "title": "3D Visualization Quality Assurance Intern",
     "org": "Wayfair",
     "location": "Boston, MA",
     "start": 2017,
-    "end" : 2017,
+    "end": 2017,
     "description": "Developed image manipulation scripts for catalog imagery and streamlined 3D rendering pipeline standards.",
     "type": "work",
-    "tags": [
-      "quality",
-      "software",
-      "visualization"
-    ]
+    "tags": ["quality", "software", "visualization"]
   }
 ]
