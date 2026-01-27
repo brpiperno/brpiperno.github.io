@@ -74,4 +74,6 @@ __My Cats__
 
 
 # Generative AI statement
-The About.html page was initially implemented using Microsoft Copilot and then edited manually.
+The cats.html,  cats.css, and cats.js files were initially implemented using Microsoft Copilot (GPT5.1) and then edited manually. The prompt used was:
+
+Prompt: Write an HTML/CSS/Vanilla JS/Bootstrap page to display a collection of cat pictures. Include a statement at the top that this web page was generated using AI.
