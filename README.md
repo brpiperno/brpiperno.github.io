@@ -73,11 +73,15 @@ This website is designed for potential employers, friends, and family to learn m
 # Website Wire Frames
 
 **Home Page**
-![Wireframe for Home page](Index.png)
+![Wireframe for Home page](design-docs/Index.png)
 **About Me**
-![Wireframe for AboutMe page](AboutMe.png)
+![Wireframe for AboutMe page](design-docs/AboutMe.png)
 **My Cats**
-![Wireframe for MyCats page](MyCats.png)
+![Wireframe for MyCats page](design-docs/MyCats.png)
+
+# Website Screenshots 
+![Screenshot of Project Homepage](assets/ScreenshotHome.png)
+![Screenshot of the Cats AI Page](assets/ScreenshotCats.png)
 
 # Generative AI statement
 
