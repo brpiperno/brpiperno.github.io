@@ -60,3 +60,18 @@
 .project {
   background-color: var(--bp-orange);
 }
+
+.media-link {
+  padding: 1rem;
+  border-radius: 0.75rem;
+  background-color: #333;
+  color: white;
+  text-decoration: none;
+}
+
+.media-link:hover {
+  padding: 1rem;
+  border-radius: 0.75rem;
+  background-color: #aaa;
+  color: blue;
+}
