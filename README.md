@@ -1,6 +1,15 @@
+## Author
+Ben Piperno, Master's of Science in Computer Science at Northeastern, Class of 2026
+
+# Class:
+This repo was generated as part of [CS5610: Web Development](https://johnguerra.co/classes/webDevelopment_online_spring_2026/ "Class Website")
+
 # Project Overview
 This website is designed to display professional information about me, including my various academic and personal work projects!
 This site was implemented as part of an academic project during my Master's of Computer Science at Northeastern University for course CS5610: Web Development! This is a static-front end implemented using HTML5, CSS, Vanilla Javascript, Bootstrap 5, and Github Pges.
+
+# Instructions to build:
+Visit deployed website at [brpiperno.github.io](https://brpiperno.github.io/ "My Website!")
 
 # Site Map
 ```
