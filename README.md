@@ -37,7 +37,7 @@ Visit deployed website at [brpiperno.github.io](https://brpiperno.github.io/ "My
 - [Deployment URL](https://brpiperno.github.io/ "View the website as an end user")
 - [Repo Link](https://github.com/brpiperno/brpiperno.github.io "View the source code")
 - [Presentation Slides](https://docs.google.com/presentation/d/13QVONhuFwgc8US0Rfyj1x_M9zVH9siVEH3PeOE7E7gk/edit?usp=sharing "View my slides on this website's design and implmentation")
-- [Video Demonstration](https://www.markdownguide.org "Watch me present on this website")
+- [Video Demonstration](https://youtu.be/BvFqqSXCOE0 "Watch me present on this website")
 
 
 # Target Audience
